@@ -5,7 +5,7 @@ All the projects run on Unity. For escapelab to work, you will need an HTC Vive 
 
 
 ## Escape Lab
-A lab manager has made an utter mistake and mixed the wrong chemicals and you need to find the gas masks to live! This is a two-player (networked) game where players must work collectively to solve a series of puzzle and unlock all boxes to retreive the gas mask. Below are two of the three puzzles I created as part of our team project (with Alia, Manas and Peter) and 
+A lab manager has made an utter mistake and mixed the wrong chemicals. You now need to find the gas masks to live! This is a two-player (networked) game where you must work collectively to solve a series of puzzle and unlock all boxes to retreive the gas masks. Below are two of the three puzzles I created as part of our team project (with Alia, Manas and Peter) and 
 
 ### Directional Lock Puzzle
 Users must find a clue for a series of colors. The correct combination is blue-green-red-yellow-yellow-red and the red light in the bottom right becomes green when solved correctly.  
