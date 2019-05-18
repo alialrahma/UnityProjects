@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/changeKeypadBaseColor.cs">
+    <Files>
+      <File FileName="Assets/KeypadController.cs" Line="19" Column="17" />
+      <File FileName="Assets/KeypadLEDManager.cs" Line="55" Column="1" />
+      <File FileName="Assets/changeKeypadBaseColor.cs" Line="10" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
