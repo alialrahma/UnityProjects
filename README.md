@@ -12,11 +12,11 @@ Users must find a clue for a series of colors. The correct combination is blue-g
 
 ![Directional Lock Puzzle](https://i.imgur.com/M8CcKnA.png)
 
-![Directional Lock Puzzle Solution](https://i.imgur.com/BHh5XHa.png)
+![Directional Lock Puzzle Solution](https://i.imgur.com/MlyuAPW.png)
 
 ### Periodic Table Puzzle
 Users have to find the atomic number of a phrase from a paper on a table, which is Ca Ne (20 10). The red light in the bottom left turns green when the puzzle is solved correctly.
 
 ![Periodic Table Puzzle](https://i.imgur.com/obUAy2j.png)
 
-![Periodic Table Puzzle Solution](https://i.imgur.com/YluGY9F.png)
+![Periodic Table Puzzle Solution](https://i.imgur.com/uAy4MVC.png)
